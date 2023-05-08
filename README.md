@@ -1,5 +1,3 @@
-# I am React ❤ React Native Developer.
-
 <a href="https://github.com/devexpert127/devexpert127/stargazers"><img src="https://img.shields.io/github/stars/sld-columbia/esp" alt="Stars Badge"/></a>
 <a href="https://github.com/devexpert127/devexpert127/network/members"><img src="https://img.shields.io/github/forks/sld-columbia/esp" alt="Forks Badge"/></a>
 <a href="https://github.com/devexpert127/devexpert127/pulls"><img src="https://img.shields.io/github/issues-pr/sld-columbia/esp" alt="Pull Requests Badge"/></a>
@@ -70,13 +68,3 @@
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Shamir-Mateo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/21628047/red-developer" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
