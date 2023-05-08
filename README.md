@@ -24,7 +24,6 @@
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/10570.png" alt="BinanceSmartChain" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Bitcoin" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" alt="Tron" height="50" />
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" alt="Cardano" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" alt="Defi" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4176.png" alt="Dapp" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png" alt="NFT" height="50" />  
